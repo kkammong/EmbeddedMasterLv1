@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build",
+  "command": "/usr/bin/gcc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu99 -o CMakeFiles/interface.dir/main/main.c.o -c /Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/main/main.c",
+  "file": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/main/main.c"
+},
+{
+  "directory": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build",
+  "command": "/usr/bin/gcc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu99 -o CMakeFiles/interface.dir/main/add_on_lib.c.o -c /Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/main/add_on_lib.c",
+  "file": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/main/add_on_lib.c"
+},
+{
+  "directory": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build",
+  "command": "/usr/bin/gcc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu99 -o CMakeFiles/interface.dir/protocol/protocol_handler.c.o -c /Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/protocol/protocol_handler.c",
+  "file": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/protocol/protocol_handler.c"
+},
+{
+  "directory": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build",
+  "command": "/usr/bin/gcc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu99 -o CMakeFiles/interface.dir/receiver/receiver.c.o -c /Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/receiver/receiver.c",
+  "file": "/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/receiver/receiver.c"
+}
+]

@@ -1,0 +1,3 @@
+/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build/CMakeFiles/interface.dir
+/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build/CMakeFiles/edit_cache.dir
+/Users/junyun/repo/academy/EmbeddedMasterLv1/5기/SuwonJang/WEEK5/interface/build/CMakeFiles/rebuild_cache.dir
