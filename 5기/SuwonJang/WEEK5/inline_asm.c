@@ -15,7 +15,7 @@ void print_arr_info(unsigned int *arr)
 	}
 }
 
-void can_I_excute_asm (void)
+void can_I_execute_asm (void)
 {
 	/*
 	register unsigned int x1 asm("x1") = 0;
@@ -68,7 +68,7 @@ void yes_you_can_execute_asm (void)
 
 int main (void)
 {
-	can_I_excute_asm();
+	can_I_execute_asm();
 	yes_you_can_execute_asm();
 
 	return 0;
